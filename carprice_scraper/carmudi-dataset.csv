@@ -1,0 +1,265 @@
+brand,fuel,location,model_name,odometer,price,transmission,year
+Daihatsu,Bensin,Jakarta Timur ,xenia,"62,000 ",108,Manual,2015
+Daihatsu,Bensin,Jakarta Timur ,xenia,"52,000 ",95,Manual,2016
+Daihatsu,Bensin,Malang ,xenia,"32,000 ",145,Manual,2017
+Daihatsu,Bensin,Jl. Kelapa Dua Raya ,xenia,"18,000 ",122,Manual,2018
+Daihatsu,Bensin,Tangerang ,xenia,"18,000 ",123,Manual,2018
+Daihatsu,Bensin,Malang ,xenia,1 ,94.7,Manual,2010
+Daihatsu,Bensin,Kota Jakarta Timur ,xenia,"55,000 ",102.5,Manual,2016
+Daihatsu,Bensin,Jakarta Timur ,xenia,"106,000 ",97.5,Manual,2015
+Daihatsu,Bensin,Tangerang ,xenia,"123,000,000 ",78,Manual,2012
+Nissan,Bensin,Jakarta Timur ,serena,"98,000 ",83,Otomatis,2010
+Daihatsu,Bensin,Tangerang ,xenia,"44,000 ",103.5,Otomatis,2018
+Daihatsu,Bensin,Malang ,xenia,"35,000 ",145,Otomatis,2018
+Daihatsu,Bensin,Kabupaten Sidoarjo ,xenia,"108,000 ",97,Manual,2016
+Daihatsu,Bensin,Tangerang ,xenia,"55,000 ",124,Manual,2017
+Nissan,Bensin,Kota Tgr. Sel. ,serena,"100,000 ",197,Otomatis,2015
+Nissan,Bensin,Jakarta Pusat ,serena,"96,000 ",99,Otomatis,2010
+Nissan,Bensin,Indonesia ,serena,"46,000 ",147,Otomatis,2013
+Daihatsu,Bensin,Tangerang ,xenia,"27,000 ",114,Manual,2018
+Daihatsu,Bensin,Tangerang ,xenia,"19,000 ",138,Manual,2019
+Daihatsu,Bensin,Tangerang ,xenia,"13,000 ",112,Manual,2018
+Daihatsu,Bensin,Kabupaten Sidoarjo ,xenia,"108,000 ",76,Manual,2009
+Suzuki,Bensin,Jakarta Pusat ,swift,"68,000 ",89,Manual,2008
+Nissan,Bensin,Tangerang ,serena,"43,000 ",200,Otomatis,2015
+Nissan,Bensin,Tangerang ,serena,"78,000 ",165,Otomatis,2015
+Nissan,Bensin,Jakarta Timur ,serena,"60,178 ",177.5,Otomatis,2015
+Nissan,Bensin,Tangerang ,serena,"84,000 ",225,Otomatis,2015
+Nissan,Bensin,Kabupaten Sidoarjo ,livina,"161,000 ",82.5,Otomatis,2010
+Daihatsu,Bensin,Surabaya ,xenia,"83,000 ",84,Manual,2012
+Daihatsu,Bensin,Surabaya ,xenia,"89,000 ",89,Manual,2013
+Daihatsu,Bensin,Surabaya ,xenia,"91,000 ",89,Manual,2013
+Daihatsu,Bensin,Kabupaten Sidoarjo ,xenia,"74,000 ",95,Manual,2013
+Honda,Bensin,Kota Tgr. Sel. ,jazz,"60,000 ",178,Otomatis,2015
+Suzuki,Bensin,Jakarta Pusat ,swift,"68,000 ",89,Manual,2008
+Suzuki,Bensin,Jakarta Barat ,swift,"78,000 ",109,Manual,2013
+Suzuki,Bensin,Malang ,swift,"48,000 ",136,Manual,2012
+Suzuki,Bensin,Malang ,swift,"122,000 ",89,Manual,2006
+Toyota,Bensin,Jakarta Pusat ,sienta,"38,950 ",169,Otomatis,2016
+Nissan,Bensin,Tangerang ,serena,"92,000 ",165,Otomatis,2015
+Nissan,Bensin,Malang ,serena,1 ,105,Otomatis,2005
+Nissan,Bensin,Mangga Dua Plaza ,serena,"70,000 ",146,Otomatis,2013
+Nissan,Bensin,DKI Jakarta ,serena,"70,000 ",139.5,Otomatis,2014
+Toyota,Bensin,Malang ,avanza,"26,000 ",160,Manual,2015
+Nissan,Bensin,Kabupaten Sidoarjo ,livina,"124,000 ",85,Otomatis,2011
+Nissan,Bensin,Kabupaten Sidoarjo ,livina,1 ,80,Manual,2008
+Nissan,Bensin,Bandung ,livina,"50,000 ",122.5,Manual,2013
+Nissan,Bensin,Indonesia ,livina,"126,000 ",85,Manual,2012
+Daihatsu,Bensin,Surabaya ,xenia,"75,000 ",98,Manual,2014
+Daihatsu,Bensin,Kabupaten Sidoarjo ,xenia,"79,000 ",100,Manual,2012
+Daihatsu,Bensin,Surabaya ,xenia,"81,000 ",98,Manual,2012
+Daihatsu,Bensin,Tangerang ,xenia,"29,000 ",108,Manual,2018
+Suzuki,Bensin,Jakarta Timur ,ertiga,"43,000 ",108,Manual,2017
+Honda,Bensin,Kota Tgr. Sel. ,jazz,"39,000 ",212,Otomatis,2017
+Honda,Bensin,Kota Tgr. Sel. ,jazz,"80,000 ",192,Otomatis,2017
+Honda,Bensin,Indonesia ,jazz,"80,000 ",130,Otomatis,2012
+Honda,Bensin,Bekasi ,jazz,"48,000 ",187,Otomatis,2016
+Suzuki,Bensin,Malang ,swift,1 ,135,Manual,2013
+Suzuki,Bensin,Kabupaten Sidoarjo ,swift,"98,000 ",86,Manual,2009
+Suzuki,Bensin,Malang ,swift,1 ,115,Manual,2010
+Suzuki,Bensin,Bekasi ,swift,"57,500 ",125,Otomatis,2013
+Toyota,Bensin,Jakarta Utara ,sienta,"33,000 ",169,Otomatis,2017
+Toyota,Bensin,Tangerang ,sienta,"42,000 ",165.5,Otomatis,2018
+Toyota,Bensin,Tangerang ,sienta,"18,000 ",179.5,Otomatis,2019
+"
+Nissan",Bensin,Indonesia ,serena,1 ,175,Otomatis,2013
+"
+Nissan",Bensin,Indonesia ,serena,"79,000 ",240,Otomatis,2015
+Nissan,Bensin,Bekasi ,serena,"12,000 ",318,Otomatis,2019
+Nissan,Bensin,Indonesia ,serena,"106,000 ",90,Otomatis,2010
+Toyota,Bensin,Jakarta Pusat ,avanza,"110,000 ",85,Manual,2004
+Toyota,Bensin,Jakarta Pusat ,avanza,"111,000 ",85,Manual,2004
+Toyota,Bensin,Jakarta Pusat ,avanza,"125,000 ",105,Otomatis,2015
+Toyota,Bensin,Tangerang ,avanza,"30,000 ",127.5,Otomatis,2018
+Nissan,Bensin,Sleman ,livina,"35,000 ",80,Manual,2009
+Nissan,Bensin,Indonesia ,livina,"86,000 ",72,Manual,2010
+"
+Nissan",Bensin,Indonesia ,livina,1 ,85,Otomatis,2010
+Nissan,Bensin,Indonesia ,livina,"8,000 ",200.5,Otomatis,2019
+Daihatsu,Bensin,Kabupaten Sidoarjo ,xenia,1 ,78,Manual,2006
+Daihatsu,Bensin,Indonesia ,xenia,"95,000 ",98.5,Manual,2015
+Daihatsu,Bensin,Sidoarjo ,xenia,1 ,112,Manual,2012
+Daihatsu,Bensin,Malang ,xenia,1 ,145,Manual,2017
+Suzuki,Bensin,Malang ,ertiga,"33,000 ",142.5,Otomatis,2014
+Suzuki,Bensin,Kota Jakarta Timur ,ertiga,"35,123 ",133,Otomatis,2017
+Suzuki,Bensin,Bekasi ,ertiga,"70,000 ",143,Otomatis,2017
+Suzuki,Bensin,Bekasi ,ertiga,"70,000 ",110,Manual,2013
+Honda,Bensin,Malang ,jazz,"83,000 ",144.5,Otomatis,2009
+Honda,Bensin,Malang ,jazz,"35,000 ",190,Manual,2014
+Honda,Bensin,Malang ,jazz,1 ,145,Otomatis,2011
+Honda,Bensin,Malang ,jazz,1 ,146,Otomatis,2011
+"
+Suzuki",Bensin,Kabupaten Sleman ,swift,"88,000 ",125,Otomatis,2013
+Suzuki,Bensin,Bekasi ,swift,"51,130 ",120,Otomatis,2014
+"
+Suzuki",Bensin,Indonesia ,swift,1 ,98,Manual,2009
+"
+Suzuki",Bensin,Kabupaten Sleman ,swift,"22,791 ",163,Otomatis,2016
+Toyota,Bensin,Tangerang ,sienta,"31,000 ",152.5,Otomatis,2016
+Toyota,Bensin,Bekasi ,sienta,"30,000 ",140,Manual,2017
+Toyota,Bensin,Bekasi ,sienta,"39,430 ",167,Otomatis,2017
+Nissan,Bensin,ID ,serena,"85,000 ",116,Otomatis,2012
+Nissan,Bensin,Indonesia ,serena,"71,000 ",215,Otomatis,2015
+"
+Nissan",Bensin,Medan ,serena,1 ,169,Otomatis,2013
+Nissan,Bensin,Cirebon ,serena,"48,000 ",225,Otomatis,2015
+Toyota,Bensin,Tangerang ,avanza,"31,000 ",127.5,Otomatis,2018
+Toyota,Bensin,Kota Jakarta Timur ,avanza,"140,123 ",78,Manual,2007
+Toyota,Bensin,Bekasi ,avanza,"79,000 ",120,Manual,2015
+Toyota,Bensin,Bekasi ,avanza,"60,000 ",135,Manual,2016
+Nissan,Bensin,Jakarta Pusat ,livina,"5,000 ",205,Otomatis,2019
+"
+Nissan",Bensin,Semarang ,livina,"60,000 ",110,Otomatis,2013
+Nissan,Bensin,Medan ,livina,"100,000 ",78,Otomatis,2008
+"
+Nissan",Bensin,Semarang ,livina,"8,092 ",230,Otomatis,2019
+Daihatsu,Bensin,Malang ,xenia,1 ,125,Manual,2016
+Suzuki,Bensin,Jakarta Timur ,ertiga,"24,000 ",130,Manual,2017
+Suzuki,Bensin,Jakarta Timur ,ertiga,"98,000 ",110,Otomatis,2014
+Suzuki,Bensin,Jakarta Timur ,ertiga,"87,000 ",117.5,Manual,2015
+Suzuki,Bensin,Tangerang ,ertiga,"16,000 ",137,Manual,2019
+Honda,Bensin,Malang ,jazz,1 ,196,Otomatis,2017
+Honda,Bensin,Malang ,jazz,"87,000 ",138.5,Otomatis,2010
+Honda,Bensin,Bekasi ,jazz,"25,500 ",169,Otomatis,2015
+Suzuki,Bensin,Kota Jkt Utara ,swift,"34,000 ",109,Manual,2014
+"
+Suzuki",Bensin,Palembang ,swift,1 ,120,Manual,2013
+"
+Suzuki",Bensin,Indonesia ,swift,1 ,150,Otomatis,2014
+Suzuki,Bensin,Indonesia ,swift,"89,000 ",80,Otomatis,2009
+Toyota,Bensin,Malang ,sienta,"12,000 ",185,Manual,2017
+Toyota,Bensin,Tangerang ,sienta,"12,000 ",139.5,Manual,2018
+Toyota,Bensin,Tangerang ,sienta,"55,000 ",155,Otomatis,2016
+Toyota,Bensin,Tangerang ,sienta,"39,000 ",154,Otomatis,2017
+Nissan,Bensin,Serang ,serena,"134,000 ",95,Otomatis,2012
+Nissan,Bensin,Kota Jakarta Barat  ,serena,"100,000 ",137,Otomatis,2013
+Nissan,Bensin,Bekasi ,serena,"150,000 ",160,Otomatis,2013
+Toyota,Bensin,Depok ,avanza,1 ,135,Otomatis,2015
+Toyota,Bensin,Depok ,avanza,1 ,143,Manual,2016
+Toyota,Bensin,Depok ,avanza,"60,000 ",153,Otomatis,2016
+Toyota,Bensin,Malang ,avanza,"40,000 ",117.5,Manual,2015
+Nissan,Bensin,Kota Jakarta Selatan ,livina,"70,000 ",105,Manual,2015
+"
+Nissan",Bensin,Makassar ,livina,2 ,155,Otomatis,2015
+Nissan,Bensin,Kota Tgr. Sel. ,livina,"59,000 ",110,Otomatis,2014
+"
+Nissan",Bensin,Indonesia ,livina,1 ,107.5,Manual,2014
+Suzuki,Bensin,Tangerang ,ertiga,"33,000 ",138.5,Manual,2019
+Suzuki,Bensin,Bantul ,ertiga,"73,000 ",130,Manual,2018
+Suzuki,Bensin,Kabupaten Sidoarjo ,ertiga,"60,000 ",119,Otomatis,2013
+Suzuki,Bensin,Kabupaten Sidoarjo ,ertiga,"57,000 ",115,Manual,2014
+Honda,Bensin,Tangerang ,jazz,"18,000 ",219.5,Otomatis,2018
+Honda,Bensin,Tangerang ,jazz,"49,000 ",155,Otomatis,2016
+Honda,Bensin,Tangerang ,jazz,"57,000 ",189.5,Otomatis,2017
+Honda,Bensin,Surabaya ,jazz,"118,000 ",78,Otomatis,2007
+Suzuki,Bensin,Indonesia ,swift,"95,000 ",97,Otomatis,2009
+Suzuki,Bensin,Jl. Medan Utara ,swift,"55,120 ",138,Otomatis,2012
+Suzuki,Bensin,Indonesia ,swift,"190,296 ",75,Otomatis,2006
+Suzuki,Bensin,Indonesia ,swift,"41,405 ",128,Otomatis,2014
+Toyota,Bensin,Malang ,sienta,"16,000 ",195,Manual,2017
+Toyota,Bensin,Malang ,sienta,"40,000 ",180,Otomatis,2016
+Toyota,Bensin,Kabupaten Sidoarjo ,sienta,1 ,150,Otomatis,2017
+Toyota,Bensin,Kabupaten Sidoarjo ,sienta,"59,000 ",167.5,Manual,2017
+Nissan,Bensin,Indonesia ,serena,"5,000 ",380,Otomatis,2019
+Nissan,Bensin,Kota Jakarta Timur ,serena,"69,000 ",238,Otomatis,2016
+Nissan,Bensin,Indonesia ,serena,"51,500 ",170,Otomatis,2016
+Nissan,Bensin,Bandung ,serena,"104,000 ",115,Otomatis,2011
+Toyota,Bensin,Sidoarjo ,avanza,"96,000 ",139,Manual,2016
+Toyota,Bensin,Malang ,avanza,"80,000 ",135,Otomatis,2014
+Toyota,Bensin,Malang ,avanza,"2,000 ",190.25,Manual,2019
+Toyota,Bensin,Jakarta Timur ,avanza,"135,000 ",85,Manual,2011
+"
+Nissan",Bensin,Indonesia ,livina,1 ,78,Otomatis,2008
+"
+Nissan",Bensin,Kabupaten Sleman ,livina,"143,000 ",62,Manual,2008
+Nissan,Bensin,Kota Tgr. Sel. ,livina,"90,000 ",109,Otomatis,2014
+"
+Nissan",Bensin,Semarang ,livina,1 ,112,Manual,2014
+Suzuki,Bensin,Kabupaten Sidoarjo ,ertiga,"1,200 ",191.5,Otomatis,2019
+Suzuki,Bensin,Kota SBY ,ertiga,"57,000 ",143,Manual,2017
+Suzuki,Bensin,DKI Jakarta ,ertiga,"20,000 ",136,Otomatis,2017
+Suzuki,Bensin,Kabupaten Sidoarjo ,ertiga,"58,000 ",127.5,Manual,2014
+Honda,Bensin,Malang ,jazz,"33,000 ",230,Otomatis,2016
+Honda,Bensin,Malang ,jazz,"20,000 ",190,Manual,2015
+Honda,Bensin,Kota SBY ,jazz,1 ,153,Otomatis,2012
+Honda,Bensin,Kabupaten Sidoarjo ,jazz,"143,000 ",74.75,Manual,2006
+"
+Suzuki",Bensin,Semarang ,swift,"73,000 ",105,Otomatis,2011
+Suzuki,Bensin,Indonesia ,swift,"225,000 ",82,Manual,2009
+Suzuki,Bensin,Indonesia ,swift,"51,000 ",132,Otomatis,2014
+Suzuki,Bensin,Bandung ,swift,"100,000 ",92.5,Otomatis,2007
+Toyota,Bensin,Malang ,sienta,"22,000 ",195,Otomatis,2016
+Toyota,Bensin,Indonesia ,sienta,"30,000 ",195,Otomatis,2017
+Toyota,Bensin,Pontianak ,sienta,"35,000 ",211,Otomatis,2016
+Toyota,Bensin,Banten ,sienta,"70,000 ",165,Otomatis,2017
+Nissan,Bensin,Kota SBY ,serena,"67,000 ",179,Otomatis,2013
+Nissan,Bensin,Indonesia ,serena,"136,000 ",95,Otomatis,2010
+Nissan,Bensin,Indonesia ,serena,"157,000 ",75,Otomatis,2005
+Toyota,Bensin,Jakarta Timur ,avanza,"70,000 ",137.5,Manual,2017
+Toyota,Bensin,Jakarta Timur ,avanza,"27,000 ",135,Manual,2018
+Toyota,Bensin,Jakarta Timur ,avanza,"71,000 ",122.5,Manual,2015
+Toyota,Bensin,Jakarta Timur ,avanza,"65,000 ",122.5,Manual,2016
+Nissan,Bensin,Indonesia ,livina,"80,000 ",107,Manual,2013
+Nissan,Bensin,Indonesia ,livina,"165,500 ",70,Otomatis,2008
+Nissan,Bensin,Indonesia ,livina,"130,000 ",97,Otomatis,2012
+Nissan,Bensin,Pontianak ,livina,"15,000 ",159,Otomatis,2018
+Suzuki,Bensin,Jakarta Timur ,ertiga,"65,000 ",120,Otomatis,2013
+Suzuki,Bensin,Jakarta Timur ,ertiga,"61,000 ",93,Otomatis,2013
+Suzuki,Bensin,Jakarta Selatan ,ertiga,"106,000 ",90,Manual,2012
+Suzuki,Bensin,Kota SBY ,ertiga,1 ,132,Manual,2015
+Honda,Bensin,Mojokerto ,jazz,"30,000 ",195,Otomatis,2015
+Honda,Bensin,Malang ,jazz,"40,000 ",228,Otomatis,2017
+Honda,Bensin,Malang ,jazz,"18,000 ",250,Otomatis,2018
+Suzuki,Bensin,Jl. Raya Karawaci / Imam Bonjol ,swift,"50,000 ",119,Otomatis,2012
+Suzuki,Bensin,Depok ,swift,"61,000 ",135,Otomatis,2013
+Suzuki,Bensin,Malang ,swift,1 ,145,Manual,2013
+"
+Suzuki",Bensin,Semarang ,swift,"66,000 ",138,Otomatis,2014
+Toyota,Bensin, Bekasi ,sienta,"42,047 ",155,Otomatis,2017
+"
+Toyota",Bensin,Palembang ,sienta,1 ,158,Otomatis,2016
+"
+Toyota",Bensin,Pekanbaru ,sienta,2 ,166,Otomatis,2016
+"
+Toyota",Bensin,Semarang ,sienta,"50,732 ",155,Otomatis,2017
+Toyota,Bensin,Kota Jakarta Timur ,avanza,"150,000 ",95,Manual,2013
+Toyota,Bensin,Kota Jakarta Barat ,avanza,"37,000 ",127,Otomatis,2018
+Toyota,Bensin,Tangerang ,avanza,"48,000 ",109,Otomatis,2018
+Toyota,Bensin,Depok ,avanza,"88,000 ",140,Manual,2016
+Nissan,Bensin,Kubu Raya Regency ,livina,"15,000 ",92,Otomatis,2008
+Nissan,Bensin,Pontianak ,livina,"15,000 ",139,Otomatis,2015
+Nissan,Bensin,Kubu Raya Regency ,livina,"15,000 ",115,Manual,2013
+Nissan,Bensin,Indonesia ,livina,"190,000 ",95,Manual,2011
+Suzuki,Bensin,Jakarta Timur ,ertiga,"45,000 ",128,Manual,2016
+Suzuki,Bensin,Jakarta Timur ,ertiga,"85,000 ",108,Manual,2013
+Suzuki,Bensin,Malang ,ertiga,"83,000 ",138.5,Manual,2015
+Suzuki,Bensin,Kabupaten Sidoarjo ,ertiga,"40,000 ",138,Manual,2014
+Honda,Bensin,Malang ,jazz,1 ,92,Manual,2004
+Honda,Bensin,Kota SBY ,jazz,1 ,209,Otomatis,2015
+Honda,Bensin,Kota SBY ,jazz,"28,000 ",210,Manual,2016
+Honda,Bensin,Malang ,jazz,1 ,145,Otomatis,2010
+"
+Suzuki",Bensin,Bantul ,swift,"50,000 ",90,Otomatis,2006
+"
+Toyota",Bensin,Indonesia ,sienta,1 ,208,Otomatis,2018
+Toyota,Bensin,ID ,sienta,"55,000 ",186,Otomatis,2016
+"
+Toyota",Bensin,Indonesia ,sienta,1 ,155,Manual,2016
+Toyota,Bensin,Tangerang ,avanza,"34,000 ",143,Otomatis,2018
+Toyota,Bensin,Tangerang ,avanza,"37,000 ",138,Manual,2018
+Toyota,Bensin,Bekasi ,avanza,"146,000 ",90,Manual,2009
+Toyota,Bensin,Bekasi ,avanza,"70,000 ",125,Otomatis,2015
+Nissan,Bensin,Indonesia ,livina,"8,000 ",210,Otomatis,2019
+Suzuki,Bensin,Malang ,ertiga,1 ,120,Manual,2012
+Suzuki,Bensin,Malang ,ertiga,1 ,145,Manual,2015
+Suzuki,Bensin,Malang ,ertiga,1 ,142,Manual,2016
+Suzuki,Bensin,Kota SBY ,ertiga,"63,000 ",158,Manual,2018
+Honda,Bensin,Malang ,jazz,1 ,147.5,Otomatis,2010
+Honda,Bensin,Malang ,jazz,"88,000 ",145,Otomatis,2010
+Honda,Bensin,Malang ,jazz,"115,000 ",125,Manual,2008
+Toyota,Bensin,Depok ,sienta,"38,000 ",170,Manual,2017
+Toyota,Bensin,Indonesia ,sienta,"61,000 ",175,Manual,2017
+Toyota,Bensin,Indonesia ,sienta,"75,552 ",149,Otomatis,2016
+Toyota,Bensin,Jl. Gading Serpong Boulevard ,sienta,"35,000 ",164,Otomatis,2016
+Toyota,Bensin,Kota Jakarta Timur ,avanza,"65,123 ",148,Manual,2016
+Suzuki,Bensin,Kabupaten Sidoarjo ,ertiga,"57,000 ",123,Otomatis,2013
