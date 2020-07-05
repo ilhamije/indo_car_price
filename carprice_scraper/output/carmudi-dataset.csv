@@ -1,0 +1,505 @@
+brand,fuel,location,model_name,odometer,price,transmission,year
+Daihatsu,Bensin,"
+Jakarta Timur ",xenia,"62,000 Km",108 Juta,Manual,2015
+Daihatsu,Bensin,"
+Jakarta Timur ",xenia,"52,000 Km",95 Juta,Manual,2016
+Daihatsu,Bensin,"
+Malang ",xenia,"32,000 Km",145 Juta,Manual,2017
+Daihatsu,Bensin,"
+Jl. Kelapa Dua Raya ",xenia,"18,000 Km",122 Juta,Manual,2018
+Daihatsu,Bensin,"
+Tangerang ",xenia,"18,000 Km",123 Juta,Manual,2018
+Daihatsu,Bensin,"
+Malang ",xenia,1 Km,94.7 Juta,Manual,2010
+Daihatsu,Bensin,"
+Kota Jakarta Timur ",xenia,"55,000 Km",102.5 Juta,Manual,2016
+Daihatsu,Bensin,"
+Jakarta Timur ",xenia,"106,000 Km",97.5 Juta,Manual,2015
+Daihatsu,Bensin,"
+Tangerang ",xenia,"123,000,000 Km",78 Juta,Manual,2012
+Daihatsu,Bensin,"
+Tangerang ",xenia,"44,000 Km",103.5 Juta,Otomatis,2018
+Daihatsu,Bensin,"
+Malang ",xenia,"35,000 Km",145 Juta,Otomatis,2018
+Daihatsu,Bensin,"
+Kabupaten Sidoarjo ",xenia,"108,000 Km",97 Juta,Manual,2016
+Daihatsu,Bensin,"
+Tangerang ",xenia,"55,000 Km",124 Juta,Manual,2017
+Daihatsu,Bensin,"
+Tangerang ",xenia,"27,000 Km",114 Juta,Manual,2018
+Daihatsu,Bensin,"
+Tangerang ",xenia,"19,000 Km",138 Juta,Manual,2019
+Daihatsu,Bensin,"
+Tangerang ",xenia,"13,000 Km",112 Juta,Manual,2018
+Nissan,Bensin,"
+Jakarta Pusat ",serena,"96,000 Km",99 Juta,Otomatis,2010
+Daihatsu,Bensin,"
+Kabupaten Sidoarjo ",xenia,"108,000 Km",76 Juta,Manual,2009
+Daihatsu,Bensin,"
+Surabaya ",xenia,"83,000 Km",84 Juta,Manual,2012
+Daihatsu,Bensin,"
+Surabaya ",xenia,"89,000 Km",89 Juta,Manual,2013
+Daihatsu,Bensin,"
+Surabaya ",xenia,"91,000 Km",89 Juta,Manual,2013
+Nissan,Bensin,"
+Kota Tgr. Sel. ",serena,"100,000 Km",197 Juta,Otomatis,2015
+Nissan,Bensin,"
+Jakarta Timur ",serena,"98,000 Km",83 Juta,Otomatis,2010
+Nissan,Bensin,"
+Indonesia ",serena,"46,000 Km",147 Juta,Otomatis,2013
+Nissan,Bensin,"
+Tangerang ",serena,"43,000 Km",200 Juta,Otomatis,2015
+Daihatsu,Bensin,"
+Kabupaten Sidoarjo ",xenia,"74,000 Km",95 Juta,Manual,2013
+Daihatsu,Bensin,"
+Surabaya ",xenia,"75,000 Km",98 Juta,Manual,2014
+Daihatsu,Bensin,"
+Kabupaten Sidoarjo ",xenia,"79,000 Km",100 Juta,Manual,2012
+Honda,Bensin,"
+Kota Tgr. Sel. ",jazz,"60,000 Km",178 Juta,Otomatis,2015
+Nissan,Bensin,"
+Tangerang ",serena,"78,000 Km",165 Juta,Otomatis,2015
+Nissan,Bensin,"
+Jakarta Timur ",serena,"60,178 Km",177.5 Juta,Otomatis,2015
+Nissan,Bensin,"
+Tangerang ",serena,"84,000 Km",225 Juta,Otomatis,2015
+Nissan,Bensin,"
+Tangerang ",serena,"92,000 Km",165 Juta,Otomatis,2015
+Daihatsu,Bensin,"
+Surabaya ",xenia,"81,000 Km",98 Juta,Manual,2012
+Daihatsu,Bensin,"
+Tangerang ",xenia,"29,000 Km",108 Juta,Manual,2018
+Daihatsu,Bensin,"
+Kabupaten Sidoarjo ",xenia,1 Km,78 Juta,Manual,2006
+Daihatsu,Bensin,"
+Indonesia ",xenia,"95,000 Km",98.5 Juta,Manual,2015
+Suzuki,Bensin,"
+Jakarta Pusat ",swift,"68,000 Km",89 Juta,Manual,2008
+Honda,Bensin,"
+Kota Tgr. Sel. ",jazz,"39,000 Km",212 Juta,Otomatis,2017
+Honda,Bensin,"
+Kota Tgr. Sel. ",jazz,"80,000 Km",192 Juta,Otomatis,2017
+Honda,Bensin,"
+Indonesia ",jazz,"80,000 Km",130 Juta,Otomatis,2012
+Honda,Bensin,"
+Bekasi ",jazz,"48,000 Km",187 Juta,Otomatis,2016
+Nissan,Bensin,"
+Malang ",serena,1 Km,105 Juta,Otomatis,2005
+Nissan,Bensin,"
+Jl. Boulevard Raya Gading Serpong ",serena,"115,000 Km",85 Juta,Otomatis,2011
+Nissan,Bensin,"
+Mangga Dua Plaza ",serena,"70,000 Km",146 Juta,Otomatis,2013
+Nissan,Bensin,"
+DKI Jakarta ",serena,"70,000 Km",139.5 Juta,Otomatis,2014
+Suzuki,Bensin,"
+Jakarta Timur ",ertiga,"43,000 Km",108 Juta,Manual,2017
+Daihatsu,Bensin,"
+Sidoarjo ",xenia,1 Km,112 Juta,Manual,2012
+Daihatsu,Bensin,"
+Malang ",xenia,1 Km,145 Juta,Manual,2017
+Daihatsu,Bensin,"
+Malang ",xenia,1 Km,125 Juta,Manual,2016
+Toyota,Bensin,"
+Jakarta Pusat ",avanza,"125,000 Km",105 Juta,Otomatis,2015
+Suzuki,Bensin,"
+Jakarta Pusat ",swift,"68,000 Km",89 Juta,Manual,2008
+Suzuki,Bensin,"
+Jakarta Barat ",swift,"78,000 Km",109 Juta,Manual,2013
+Suzuki,Bensin,"
+Malang ",swift,"48,000 Km",136 Juta,Manual,2012
+Suzuki,Bensin,"
+Malang ",swift,"122,000 Km",89 Juta,Manual,2006
+Toyota,Bensin,"
+Jakarta Pusat ",sienta,"38,950 Km",169 Juta,Otomatis,2016
+Nissan,Bensin,"
+Kabupaten Sidoarjo ",livina,"161,000 Km",82.5 Juta,Otomatis,2010
+Honda,Bensin,"
+Malang ",jazz,"83,000 Km",144.5 Juta,Otomatis,2009
+Honda,Bensin,"
+Malang ",jazz,"35,000 Km",190 Juta,Manual,2014
+Honda,Bensin,"
+Malang ",jazz,1 Km,145 Juta,Otomatis,2011
+Honda,Bensin,"
+Malang ",jazz,1 Km,146 Juta,Otomatis,2011
+"
+Nissan",Bensin,"
+Indonesia ",serena,1 Km,175 Juta,Otomatis,2013
+"
+Nissan",Bensin,"
+Indonesia ",serena,"79,000 Km",240 Juta,Otomatis,2015
+Nissan,Bensin,"
+Bekasi ",serena,"12,000 Km",318 Juta,Otomatis,2019
+Nissan,Bensin,"
+Indonesia ",serena,"106,000 Km",90 Juta,Otomatis,2010
+Suzuki,Bensin,"
+Malang ",ertiga,"33,000 Km",142.5 Juta,Otomatis,2014
+Suzuki,Bensin,"
+Kota Jakarta Timur ",ertiga,"35,123 Km",133 Juta,Otomatis,2017
+Suzuki,Bensin,"
+Bekasi ",ertiga,"70,000 Km",143 Juta,Otomatis,2017
+Suzuki,Bensin,"
+Bekasi ",ertiga,"70,000 Km",110 Juta,Manual,2013
+Toyota,Bensin,"
+Jakarta Pusat ",avanza,"111,000 Km",85 Juta,Manual,2004
+Toyota,Bensin,"
+Malang ",avanza,"26,000 Km",160 Juta,Manual,2015
+Toyota,Bensin,"
+Jakarta Pusat ",avanza,"110,000 Km",85 Juta,Manual,2004
+Toyota,Bensin,"
+Tangerang ",avanza,"30,000 Km",127.5 Juta,Otomatis,2018
+Suzuki,Bensin,"
+Malang ",swift,1 Km,135 Juta,Manual,2013
+Suzuki,Bensin,"
+Kabupaten Sidoarjo ",swift,"98,000 Km",86 Juta,Manual,2009
+Suzuki,Bensin,"
+Malang ",swift,1 Km,115 Juta,Manual,2010
+Suzuki,Bensin,"
+Bekasi ",swift,"57,500 Km",125 Juta,Otomatis,2013
+Toyota,Bensin,"
+Jakarta Utara ",sienta,"33,000 Km",169 Juta,Otomatis,2017
+Toyota,Bensin,"
+Tangerang ",sienta,"42,000 Km",165.5 Juta,Otomatis,2018
+Toyota,Bensin,"
+Tangerang ",sienta,"18,000 Km",179.5 Juta,Otomatis,2019
+Toyota,Bensin,"
+Tangerang ",sienta,"31,000 Km",152.5 Juta,Otomatis,2016
+Nissan,Bensin,"
+Kabupaten Sidoarjo ",livina,"124,000 Km",85 Juta,Otomatis,2011
+Nissan,Bensin,"
+Kabupaten Sidoarjo ",livina,1 Km,80 Juta,Manual,2008
+Nissan,Bensin,"
+Bandung ",livina,"50,000 Km",122.5 Juta,Manual,2013
+Nissan,Bensin,"
+Indonesia ",livina,"126,000 Km",85 Juta,Manual,2012
+Honda,Bensin,"
+Malang ",jazz,1 Km,196 Juta,Otomatis,2017
+Honda,Bensin,"
+Malang ",jazz,"87,000 Km",138.5 Juta,Otomatis,2010
+Honda,Bensin,"
+Bekasi ",jazz,"25,500 Km",169 Juta,Otomatis,2015
+Honda,Bensin,"
+Tangerang ",jazz,"18,000 Km",219.5 Juta,Otomatis,2018
+Nissan,Bensin,"
+ID ",serena,"85,000 Km",116 Juta,Otomatis,2012
+Nissan,Bensin,"
+Indonesia ",serena,"71,000 Km",215 Juta,Otomatis,2015
+"
+Nissan",Bensin,"
+Medan ",serena,1 Km,169 Juta,Otomatis,2013
+Nissan,Bensin,"
+Cirebon ",serena,"48,000 Km",225 Juta,Otomatis,2015
+Suzuki,Bensin,"
+Jakarta Timur ",ertiga,"24,000 Km",130 Juta,Manual,2017
+Suzuki,Bensin,"
+Jakarta Timur ",ertiga,"98,000 Km",110 Juta,Otomatis,2014
+Suzuki,Bensin,"
+Jakarta Timur ",ertiga,"87,000 Km",117.5 Juta,Manual,2015
+Suzuki,Bensin,"
+Tangerang ",ertiga,"16,000 Km",137 Juta,Manual,2019
+Toyota,Bensin,"
+Tangerang ",avanza,"31,000 Km",127.5 Juta,Otomatis,2018
+Toyota,Bensin,"
+Kota Jakarta Timur ",avanza,"140,123 Km",78 Juta,Manual,2007
+Toyota,Bensin,"
+Bekasi ",avanza,"79,000 Km",120 Juta,Manual,2015
+Toyota,Bensin,"
+Bekasi ",avanza,"60,000 Km",135 Juta,Manual,2016
+"
+Suzuki",Bensin,"
+Kabupaten Sleman ",swift,"88,000 Km",125 Juta,Otomatis,2013
+Suzuki,Bensin,"
+Bekasi ",swift,"51,130 Km",120 Juta,Otomatis,2014
+"
+Suzuki",Bensin,"
+Indonesia ",swift,1 Km,98 Juta,Manual,2009
+"
+Suzuki",Bensin,"
+Kabupaten Sleman ",swift,"22,791 Km",163 Juta,Otomatis,2016
+Toyota,Bensin,"
+Bekasi ",sienta,"30,000 Km",140 Juta,Manual,2017
+Toyota,Bensin,"
+Bekasi ",sienta,"39,430 Km",167 Juta,Otomatis,2017
+Toyota,Bensin,"
+Malang ",sienta,"12,000 Km",185 Juta,Manual,2017
+Nissan,Bensin,"
+Sleman ",livina,"35,000 Km",80 Juta,Manual,2009
+Nissan,Bensin,"
+Indonesia ",livina,"86,000 Km",72 Juta,Manual,2010
+"
+Nissan",Bensin,"
+Indonesia ",livina,1 Km,85 Juta,Otomatis,2010
+Nissan,Bensin,"
+Indonesia ",livina,"8,000 Km",200.5 Juta,Otomatis,2019
+Honda,Bensin,"
+Tangerang ",jazz,"49,000 Km",155 Juta,Otomatis,2016
+Honda,Bensin,"
+Tangerang ",jazz,"57,000 Km",189.5 Juta,Otomatis,2017
+Honda,Bensin,"
+Surabaya ",jazz,"118,000 Km",78 Juta,Otomatis,2007
+Honda,Bensin,"
+Malang ",jazz,"33,000 Km",230 Juta,Otomatis,2016
+Nissan,Bensin,"
+Serang ",serena,"134,000 Km",95 Juta,Otomatis,2012
+Nissan,Bensin,"
+Kota Jakarta Barat ",serena,"100,000 Km",137 Juta,Otomatis,2013
+Nissan,Bensin,"
+Bekasi ",serena,"150,000 Km",160 Juta,Otomatis,2013
+Suzuki,Bensin,"
+Tangerang ",ertiga,"33,000 Km",138.5 Juta,Manual,2019
+Suzuki,Bensin,"
+Bantul ",ertiga,"73,000 Km",130 Juta,Manual,2018
+Suzuki,Bensin,"
+Kabupaten Sidoarjo ",ertiga,"60,000 Km",119 Juta,Otomatis,2013
+Suzuki,Bensin,"
+Kabupaten Sidoarjo ",ertiga,"57,000 Km",115 Juta,Manual,2014
+Toyota,Bensin,"
+Depok ",avanza,1 Km,135 Juta,Otomatis,2015
+Toyota,Bensin,"
+Depok ",avanza,1 Km,143 Juta,Manual,2016
+Toyota,Bensin,"
+Depok ",avanza,"60,000 Km",153 Juta,Otomatis,2016
+Toyota,Bensin,"
+Malang ",avanza,"40,000 Km",117.5 Juta,Manual,2015
+Suzuki,Bensin,"
+Kota Jkt Utara ",swift,"34,000 Km",109 Juta,Manual,2014
+"
+Suzuki",Bensin,"
+Palembang ",swift,1 Km,120 Juta,Manual,2013
+"
+Suzuki",Bensin,"
+Indonesia ",swift,1 Km,150 Juta,Otomatis,2014
+Toyota,Bensin,"
+Tangerang ",sienta,"12,000 Km",139.5 Juta,Manual,2018
+Toyota,Bensin,"
+Tangerang ",sienta,"55,000 Km",155 Juta,Otomatis,2016
+Toyota,Bensin,"
+Tangerang ",sienta,"39,000 Km",154 Juta,Otomatis,2017
+Toyota,Bensin,"
+Malang ",sienta,"16,000 Km",195 Juta,Manual,2017
+Nissan,Bensin,"
+Jakarta Pusat ",livina,"5,000 Km",205 Juta,Otomatis,2019
+"
+Nissan",Bensin,"
+Semarang ",livina,"60,000 Km",110 Juta,Otomatis,2013
+Nissan,Bensin,"
+Medan ",livina,"100,000 Km",78 Juta,Otomatis,2008
+"
+Nissan",Bensin,"
+Semarang ",livina,"8,092 Km",230 Juta,Otomatis,2019
+Honda,Bensin,"
+Malang ",jazz,"20,000 Km",190 Juta,Manual,2015
+Honda,Bensin,"
+Kota SBY ",jazz,1 Km,153 Juta,Otomatis,2012
+Honda,Bensin,"
+Kabupaten Sidoarjo ",jazz,"143,000 Km",74.75 Juta,Manual,2006
+Honda,Bensin,"
+Mojokerto ",jazz,"30,000 Km",195 Juta,Otomatis,2015
+Nissan,Bensin,"
+Indonesia ",serena,"5,000 Km",380 Juta,Otomatis,2019
+Nissan,Bensin,"
+Kota Jakarta Timur ",serena,"69,000 Km",238 Juta,Otomatis,2016
+Nissan,Bensin,"
+Indonesia ",serena,"51,500 Km",170 Juta,Otomatis,2016
+Nissan,Bensin,"
+Bandung ",serena,"104,000 Km",115 Juta,Otomatis,2011
+Suzuki,Bensin,"
+Kabupaten Sidoarjo ",ertiga,"1,200 Km",191.5 Juta,Otomatis,2019
+Suzuki,Bensin,"
+Kota SBY ",ertiga,"57,000 Km",143 Juta,Manual,2017
+Suzuki,Bensin,"
+DKI Jakarta ",ertiga,"20,000 Km",136 Juta,Otomatis,2017
+Suzuki,Bensin,"
+Kabupaten Sidoarjo ",ertiga,"58,000 Km",127.5 Juta,Manual,2014
+Toyota,Bensin,"
+Sidoarjo ",avanza,"96,000 Km",139 Juta,Manual,2016
+Toyota,Bensin,"
+Malang ",avanza,"80,000 Km",135 Juta,Otomatis,2014
+Toyota,Bensin,"
+Malang ",avanza,"2,000 Km",190.25 Juta,Manual,2019
+Toyota,Bensin,"
+Jakarta Timur ",avanza,"135,000 Km",85 Juta,Manual,2011
+Suzuki,Bensin,"
+Indonesia ",swift,"89,000 Km",80 Juta,Otomatis,2009
+Suzuki,Bensin,"
+Indonesia ",swift,"95,000 Km",97 Juta,Otomatis,2009
+Suzuki,Bensin,"
+Jl. Medan Utara ",swift,"55,120 Km",138 Juta,Otomatis,2012
+Suzuki,Bensin,"
+Indonesia ",swift,"190,296 Km",75 Juta,Otomatis,2006
+Toyota,Bensin,"
+Malang ",sienta,"40,000 Km",180 Juta,Otomatis,2016
+Toyota,Bensin,"
+Kabupaten Sidoarjo ",sienta,1 Km,150 Juta,Otomatis,2017
+Toyota,Bensin,"
+Kabupaten Sidoarjo ",sienta,"59,000 Km",167.5 Juta,Manual,2017
+Toyota,Bensin,"
+Malang ",sienta,"22,000 Km",195 Juta,Otomatis,2016
+Nissan,Bensin,"
+Kota Jakarta Selatan ",livina,"70,000 Km",105 Juta,Manual,2015
+"
+Nissan",Bensin,"
+Makassar ",livina,2 Km,155 Juta,Otomatis,2015
+Nissan,Bensin,"
+Kota Tgr. Sel. ",livina,"59,000 Km",110 Juta,Otomatis,2014
+"
+Nissan",Bensin,"
+Indonesia ",livina,1 Km,107.5 Juta,Manual,2014
+Honda,Bensin,"
+Malang ",jazz,"40,000 Km",228 Juta,Otomatis,2017
+Honda,Bensin,"
+Malang ",jazz,"18,000 Km",250 Juta,Otomatis,2018
+Honda,Bensin,"
+Malang ",jazz,1 Km,92 Juta,Manual,2004
+Honda,Bensin,"
+Kota SBY ",jazz,1 Km,209 Juta,Otomatis,2015
+Nissan,Bensin,"
+Kota SBY ",serena,"67,000 Km",179 Juta,Otomatis,2013
+Nissan,Bensin,"
+Indonesia ",serena,"136,000 Km",95 Juta,Otomatis,2010
+Suzuki,Bensin,"
+Jakarta Timur ",ertiga,"65,000 Km",120 Juta,Otomatis,2013
+Suzuki,Bensin,"
+Jakarta Timur ",ertiga,"61,000 Km",93 Juta,Otomatis,2013
+Suzuki,Bensin,"
+Jakarta Selatan ",ertiga,"106,000 Km",90 Juta,Manual,2012
+Suzuki,Bensin,"
+Kota SBY ",ertiga,1 Km,132 Juta,Manual,2015
+Toyota,Bensin,"
+Jakarta Timur ",avanza,"70,000 Km",137.5 Juta,Manual,2017
+Toyota,Bensin,"
+Jakarta Timur ",avanza,"27,000 Km",135 Juta,Manual,2018
+Toyota,Bensin,"
+Jakarta Timur ",avanza,"71,000 Km",122.5 Juta,Manual,2015
+Suzuki,Bensin,"
+Indonesia ",swift,"41,405 Km",128 Juta,Otomatis,2014
+"
+Suzuki",Bensin,"
+Semarang ",swift,"73,000 Km",105 Juta,Otomatis,2011
+Suzuki,Bensin,"
+Indonesia ",swift,"225,000 Km",82 Juta,Manual,2009
+Suzuki,Bensin,"
+Indonesia ",swift,"51,000 Km",132 Juta,Otomatis,2014
+Toyota,Bensin,"
+Indonesia ",sienta,"30,000 Km",195 Juta,Otomatis,2017
+Toyota,Bensin,"
+Pontianak ",sienta,"35,000 Km",211 Juta,Otomatis,2016
+Toyota,Bensin,"
+Banten ",sienta,"70,000 Km",165 Juta,Otomatis,2017
+Toyota,Bensin,"
+Bekasi ",sienta,"42,047 Km",155 Juta,Otomatis,2017
+"
+Nissan",Bensin,"
+Indonesia ",livina,1 Km,78 Juta,Otomatis,2008
+"
+Nissan",Bensin,"
+Kabupaten Sleman ",livina,"143,000 Km",62 Juta,Manual,2008
+Nissan,Bensin,"
+Kota Tgr. Sel. ",livina,"90,000 Km",109 Juta,Otomatis,2014
+Honda,Bensin,"
+Kota SBY ",jazz,"28,000 Km",210 Juta,Manual,2016
+Honda,Bensin,"
+Malang ",jazz,1 Km,145 Juta,Otomatis,2010
+Honda,Bensin,"
+Malang ",jazz,1 Km,147.5 Juta,Otomatis,2010
+Honda,Bensin,"
+Malang ",jazz,"88,000 Km",145 Juta,Otomatis,2010
+Suzuki,Bensin,"
+Jakarta Timur ",ertiga,"45,000 Km",128 Juta,Manual,2016
+Suzuki,Bensin,"
+Jakarta Timur ",ertiga,"85,000 Km",108 Juta,Manual,2013
+Suzuki,Bensin,"
+Malang ",ertiga,"83,000 Km",138.5 Juta,Manual,2015
+Suzuki,Bensin,"
+Kabupaten Sidoarjo ",ertiga,"40,000 Km",138 Juta,Manual,2014
+Toyota,Bensin,"
+Jakarta Timur ",avanza,"65,000 Km",122.5 Juta,Manual,2016
+Toyota,Bensin,"
+Kota Jakarta Timur ",avanza,"150,000 Km",95 Juta,Manual,2013
+Toyota,Bensin,"
+Kota Jakarta Barat ",avanza,"37,000 Km",127 Juta,Otomatis,2018
+Suzuki,Bensin,"
+Bandung ",swift,"100,000 Km",92.5 Juta,Otomatis,2007
+Suzuki,Bensin,"
+Jl. Raya Karawaci / Imam Bonjol ",swift,"50,000 Km",119 Juta,Otomatis,2012
+Suzuki,Bensin,"
+Depok ",swift,"61,000 Km",135 Juta,Otomatis,2013
+Suzuki,Bensin,"
+Malang ",swift,1 Km,145 Juta,Manual,2013
+"
+Toyota",Bensin,"
+Palembang ",sienta,1 Km,158 Juta,Otomatis,2016
+"
+Toyota",Bensin,"
+Pekanbaru ",sienta,2 Km,166 Juta,Otomatis,2016
+"
+Toyota",Bensin,"
+Semarang ",sienta,"50,732 Km",155 Juta,Otomatis,2017
+"
+Toyota",Bensin,"
+Indonesia ",sienta,1 Km,208 Juta,Otomatis,2018
+"
+Nissan",Bensin,"
+Semarang ",livina,1 Km,112 Juta,Manual,2014
+Nissan,Bensin,"
+Indonesia ",livina,"80,000 Km",107 Juta,Manual,2013
+Nissan,Bensin,"
+Indonesia ",livina,"165,500 Km",70 Juta,Otomatis,2008
+Honda,Bensin,"
+Malang ",jazz,"115,000 Km",125 Juta,Manual,2008
+Suzuki,Bensin,"
+Malang ",ertiga,1 Km,120 Juta,Manual,2012
+Suzuki,Bensin,"
+Malang ",ertiga,1 Km,145 Juta,Manual,2015
+Suzuki,Bensin,"
+Malang ",ertiga,1 Km,142 Juta,Manual,2016
+Suzuki,Bensin,"
+Kota SBY ",ertiga,"63,000 Km",158 Juta,Manual,2018
+Toyota,Bensin,"
+Tangerang ",avanza,"48,000 Km",109 Juta,Otomatis,2018
+Toyota,Bensin,"
+Depok ",avanza,"88,000 Km",140 Juta,Manual,2016
+Toyota,Bensin,"
+Tangerang ",avanza,"34,000 Km",143 Juta,Otomatis,2018
+"
+Suzuki",Bensin,"
+Semarang ",swift,"66,000 Km",138 Juta,Otomatis,2014
+"
+Suzuki",Bensin,"
+Bantul ",swift,"50,000 Km",90 Juta,Otomatis,2006
+Toyota,Bensin,"
+ID ",sienta,"55,000 Km",186 Juta,Otomatis,2016
+"
+Toyota",Bensin,"
+Indonesia ",sienta,1 Km,155 Juta,Manual,2016
+Toyota,Bensin,"
+Depok ",sienta,"38,000 Km",170 Juta,Manual,2017
+Toyota,Bensin,"
+Indonesia ",sienta,"61,000 Km",175 Juta,Manual,2017
+Nissan,Bensin,"
+Indonesia ",livina,"130,000 Km",97 Juta,Otomatis,2012
+Nissan,Bensin,"
+Pontianak ",livina,"15,000 Km",159 Juta,Otomatis,2018
+Nissan,Bensin,"
+Kubu Raya Regency ",livina,"15,000 Km",92 Juta,Otomatis,2008
+Nissan,Bensin,"
+Pontianak ",livina,"15,000 Km",139 Juta,Otomatis,2015
+Suzuki,Bensin,"
+Kabupaten Sidoarjo ",ertiga,"57,000 Km",123 Juta,Otomatis,2013
+Toyota,Bensin,"
+Tangerang ",avanza,"37,000 Km",138 Juta,Manual,2018
+Toyota,Bensin,"
+Bekasi ",avanza,"146,000 Km",90 Juta,Manual,2009
+Toyota,Bensin,"
+Bekasi ",avanza,"70,000 Km",125 Juta,Otomatis,2015
+Toyota,Bensin,"
+Kota Jakarta Timur ",avanza,"65,123 Km",148 Juta,Manual,2016
+Toyota,Bensin,"
+Indonesia ",sienta,"75,552 Km",149 Juta,Otomatis,2016
+Toyota,Bensin,"
+Jl. Gading Serpong Boulevard ",sienta,"35,000 Km",164 Juta,Otomatis,2016
+Nissan,Bensin,"
+Kubu Raya Regency ",livina,"15,000 Km",115 Juta,Manual,2013
+Nissan,Bensin,"
+Indonesia ",livina,"190,000 Km",95 Juta,Manual,2011
+Nissan,Bensin,"
+Indonesia ",livina,"8,000 Km",210 Juta,Otomatis,2019
