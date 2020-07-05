@@ -35,14 +35,14 @@ class CarmudiSpider(scrapy.Spider):
             item['model_name'] = model_name
 
             price = mobil.xpath('.//div[@class="attributes-wrapper"]//a/text()').get()
-            item['price'] = price.split(' ')[0]
+            item['price'] = price
 
             attr_list = mobil.xpath('.//div[@class="attributes-wrapper"]/ul[@class="inline-list catalog-listing-attribute-list"]//span/text()').extract()
 
-            item['odometer'] = attr_list[0].lower().strip('km')
+            item['odometer'] = attr_list[0]
             item['transmission'] = attr_list[1]
             item['fuel'] = attr_list[2]
-            item['location'] = attr_list[3].strip('\n')
+            item['location'] = attr_list[3]
             
 
             yield item
