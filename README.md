@@ -17,7 +17,7 @@ Only first page and text is taken.
 ## PLAN
 - [x] Data Collection
 - [x] Data Cleaning
-- [ ] Exploratory Data Analysis
+- [x] Exploratory Data Analysis
 - [ ] Model Building
 - [ ] Production (Putting The Model into it)
 - [ ] Documentation
